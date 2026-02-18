@@ -29,15 +29,27 @@ Most refined version with colorama terminal output.
 
 ## Installation
 
-```bash
+**Windows:**
+```powershell
 pip install requests colorama
+```
+
+**Linux/macOS:**
+```bash
+pip3 install requests colorama
 ```
 
 ## Usage
 
 ### Latest Version (v4)
-```bash
+**Windows:**
+```powershell
 python searchbotv4.py
+```
+
+**Linux/macOS:**
+```bash
+python3 searchbotv4.py
 ```
 
 ### Configuration
